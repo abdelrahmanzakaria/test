@@ -1,0 +1,3 @@
+the test text {
+    body of the text
+}
